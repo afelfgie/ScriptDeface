@@ -117,7 +117,7 @@ aa = '"'
 menu = raw_input("\033[92mPilih Nomor\033[91m-->\033[36;1m ")
 
 try:
-   file = open("ScriptDefafe.html", 'w')
+   file = open("FuckYou.html", 'w')
 except(IOError):
    print ("ERR...")
    sys.exit()
